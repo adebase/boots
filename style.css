@@ -1,0 +1,141 @@
+* @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap'); */
+*{
+   margin: 0;
+   padding-left: 0;
+   box-sizing: border-box;
+   
+   /* font-family: "Open Sans", sans-serif; */  
+}
+
+/* form{
+    background-color: white;
+    width: 500px;
+    box-shadow: 7px 7px 10px 3px gray;
+    margin: 50px auto;
+    padding: 20px; 
+    border-radius: 10px;
+    border-top: 5px solid blue;
+}
+label,
+input,
+button{
+    display: block;
+  
+}
+label{
+    color: #010101;
+    font-size: 13px;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+input,
+button{
+    width: 100%;
+    height: 40px;
+   
+}
+#placeholder{
+    width: 100%;
+    height: 80px;
+}
+input{
+    margin-bottom: 20px;
+    padding: 15;
+    border: 1px solid grey;
+    outline: none;
+}
+input:focus{
+    border: 1px solid black;
+}
+input::placeholder{
+    opacity: 0.7;
+    font-weight: 400;
+}
+button{
+    background-color: rgb(104, 104, 248);
+    color: white;
+    border: none;
+    margin: 20px 0;
+} */
+/* header{
+    background-color: navy;
+    color: white;
+    position: sticky;
+    top: 0;
+}
+nav{
+    width: 90%;
+    margin: auto;
+    border: 1px solid red;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-links ul{
+    display: flex;
+    gap: 30px;
+}
+.nav-links ul li{
+    list-style-type: none;
+}
+.nav-links ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;   
+}
+.btn-links button {
+    color: white;
+    font-weight: 600;
+    border-radius: 7px;
+    border: none;
+    height: 35px;
+    width: 100px;
+    cursor: pointer;
+    margin: 0 7px;
+}
+  .login-btn{
+    background-color: blue;
+  }
+  .login-btn:hover{
+    background-color: white;
+    color: blue;
+
+  }
+  .register-btn{
+    background-color: transparent;
+  } 
+   .register-btn:hover{
+    border: 1px solid white;
+   }
+   .down-part{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   }
+   .down-part div{
+    text-align: left;
+    width: 40;
+   }
+   .down-part div p{
+    font-size: small;
+   }
+   .down-part div h2{
+    font-size: 45px;
+   }
+  .down-part div button{
+     width: 30%;
+    height: 40px;
+   
+  }
+   */
+   .right-part{
+    display: flex;
+    /* justify-content: space-between; */
+    /* align-items: center; */
+   }
+   .left-part{
+     display: flex;
+    /* text-align: left;
+    width: 40; */
+   }
